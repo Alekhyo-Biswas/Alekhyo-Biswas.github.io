@@ -1,6 +1,8 @@
 # Alekhyo-Biswas.github.io
 
-A fast, zero-dependency, config-driven developer portfolio and interactive systems laboratory built with vanilla HTML5, CSS3, and ES6 JavaScript[span_0](start_span)[span_0](end_span)[span_1](start_span)[span_1](end_span). Showcases work across compiler engineering, bytecode virtual machines, cryptographic primitives, and mathematical research[span_2](start_span)[span_2](end_span)[span_3](start_span)[span_3](end_span).
+A fast, zero-dependency, config-driven developer portfolio and interactive systems laboratory built with vanilla HTML5, CSS3, and ES6 JavaScript.
+Showcases work across compiler engineering, bytecode virtual machines, cryptographic primitives, and mathematical research
+
 
 ---
 
