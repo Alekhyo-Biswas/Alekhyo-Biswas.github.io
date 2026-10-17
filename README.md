@@ -1,3 +1,2 @@
 ### Alekhyo-Biswas.github.io
-My own website 
-For now
+My own website for now
