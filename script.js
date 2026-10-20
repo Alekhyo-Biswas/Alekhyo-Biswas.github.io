@@ -2,7 +2,7 @@ const CONFIG = {
   profile: {
     status: "Building VerScript (C17 Compiler & VM) + VS-Sharp",
     bio: "Systems and language developer architecting C compilers, bytecode virtual machines, cryptographic primitives (AES-256, xxHash), DSP synthesis extensions, and Olympiad mathematical proofs.",
-    github: "https://github.com/Alekhyo-Biswas"
+    github: "https://github.com/alexon-v8"
   },
   metrics: [
     { value: "VerScript & C17", label: "Compiler, AST & VM Toolchain" },
