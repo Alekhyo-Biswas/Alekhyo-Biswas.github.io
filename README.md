@@ -1,4 +1,4 @@
-# Alekhyo-Biswas.github.io
+# alexon-v8.github.io
 
 A fast, zero-dependency, config-driven developer portfolio and interactive systems laboratory built with vanilla HTML5, CSS3, and ES6 JavaScript.
 Showcases work across compiler engineering, bytecode virtual machines, cryptographic primitives, and mathematical research
